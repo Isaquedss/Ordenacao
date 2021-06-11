@@ -71,7 +71,7 @@ public class App {
             System.out.print(i + " ");
         }
 
-        System.out.println("\n\nExercício 4: ");
+        System.out.println("\n\nExercício 4: "); // Exercicio 4
 
     }
 }
